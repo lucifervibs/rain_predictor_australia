@@ -4,7 +4,7 @@ In this project, we built a classifier to predict whether there will be rain the
 
 For this project, we used a rainfall dataset from Australian Government's Bureau of Meteorology , cleaned the data, and applied different classification algorithms on the data.The data can be downloaded [here](http://www.bom.gov.au/climate/dwo/).
 
-We have used the following algorithms to build ours models:
+We have used the following algorithms to build our models:
 
 1.  Linear Regression
 2.  KNN
